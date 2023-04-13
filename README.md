@@ -1,5 +1,30 @@
-### Hi there 👋
+###
+<div id="header" align="center">
+  <img src="https://www.seekpng.com/png/full/896-8966369_old-computer-png.png" width="200"/>
+  
+</div>
 
+I'm Informatic student and technology enthusiastic. I felt in love with computers when I was at school starting to explore graphic design programs like CorelDraw and Illustrator. After two years using those design softwares i decided to get a new skill and move on learning Photoshop. One year later i began to learn video edit programs and got some design freelance projects. Currently i'm working on freelance web projects and training in my Java Backend skills.
+
+### Technologies:
+
+<div id="technologies" align="center">
+   <img src="https://www.foc.es/wp-content/uploads/2020/09/Java-Logo.png" height="100"/>
+   <img src="https://stackjava.com/wp-content/uploads/2017/12/spring-logo.png" height="100"/>
+   <img src="http://198.211.104.161/wp-content/uploads/2014/01/Hibernate-logo.png" height="100"/>
+   <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" height="100"/>
+   <img src="https://niixer.com/wp-content/uploads/2020/11/spring-boot.png" height="100"/>
+   <img src="https://www.tech-wd.com/wd/wp-content/uploads/2011/01/HTML5_Badge_256.png" height="100"/>
+   <img src="https://www.logolynx.com/images/logolynx/s_6e/6e6e1283cd55308a55b9eae8197b5e9b.png" height="100"/>
+   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="100"/>
+<div>
+
+### Contact:
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/gianmarco-armijos-cossio-b7866925b">
+    <img src="https://img.shields.io/badge/LinkedIn-purple"/>
+  </a>
+<div>
 <!--
 **gianmarcoCossioArmijos/gianmarcoCossioArmijos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
