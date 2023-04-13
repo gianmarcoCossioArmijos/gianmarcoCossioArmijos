@@ -9,14 +9,14 @@ I'm Informatic student and technology enthusiastic. I felt in love with computer
 ### Technologies:
 
 <div id="technologies" align="center">
-   <img src="https://www.foc.es/wp-content/uploads/2020/09/Java-Logo.png" height="100"/>
-   <img src="https://stackjava.com/wp-content/uploads/2017/12/spring-logo.png" height="100"/>
-   <img src="http://198.211.104.161/wp-content/uploads/2014/01/Hibernate-logo.png" height="100"/>
-   <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" height="100"/>
-   <img src="https://niixer.com/wp-content/uploads/2020/11/spring-boot.png" height="100"/>
-   <img src="https://www.tech-wd.com/wd/wp-content/uploads/2011/01/HTML5_Badge_256.png" height="100"/>
-   <img src="https://www.logolynx.com/images/logolynx/s_6e/6e6e1283cd55308a55b9eae8197b5e9b.png" height="100"/>
-   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="100"/>
+   <img src="https://www.foc.es/wp-content/uploads/2020/09/Java-Logo.png" height="70"/>
+   <img src="https://stackjava.com/wp-content/uploads/2017/12/spring-logo.png" height="70"/>
+   <img src="http://198.211.104.161/wp-content/uploads/2014/01/Hibernate-logo.png" height="70"/>
+   <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" height="70"/>
+   <img src="https://niixer.com/wp-content/uploads/2020/11/spring-boot.png" height="70"/>
+   <img src="https://www.tech-wd.com/wd/wp-content/uploads/2011/01/HTML5_Badge_256.png" height="70"/>
+   <img src="https://www.logolynx.com/images/logolynx/s_6e/6e6e1283cd55308a55b9eae8197b5e9b.png" height="70"/>
+   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="70"/>
 <div>
 
 ### Contact:
