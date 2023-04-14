@@ -17,6 +17,8 @@ I'm Informatic student and technology enthusiastic. I felt in love with computer
    <img src="https://www.tech-wd.com/wd/wp-content/uploads/2011/01/HTML5_Badge_256.png" height="70"/>
    <img src="https://www.logolynx.com/images/logolynx/s_6e/6e6e1283cd55308a55b9eae8197b5e9b.png" height="70"/>
    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="70"/>
+   <img src="https://mobilunity.com/wp-content/uploads/2018/08/JUnit-300x300.png" height="70"/>
+   <img src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" height="70"/>
 <div>
 
 ### Contact:
