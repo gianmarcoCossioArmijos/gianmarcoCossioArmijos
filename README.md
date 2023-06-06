@@ -1,8 +1,11 @@
 ###
 <div id="header" align="center">
-  <img src="https://www.seekpng.com/png/full/896-8966369_old-computer-png.png" width="200"/>
+  <img src="https://scontent.flim13-1.fna.fbcdn.net/v/t39.30808-6/351139782_6944915998856629_31505365242155192_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=XwHxNNkXcDoAX_HnT3z&_nc_ht=scontent.flim13-1.fna&oh=00_AfADov4prBKdferCW_-nToIoJNrZtAEvyTB7E9LJ_DTrsA&oe=6483650B" height="200" />
   
 </div>
+
+<br>
+<br>
 
 I'm Informatic student and technology enthusiastic. I felt in love with computers when I was at school starting to explore graphic design programs like CorelDraw and Illustrator. After two years using those design softwares i decided to get a new skill and move on learning Photoshop. One year later i began to learn video edit programs and got some design freelance projects. Currently i'm working on freelance web projects and training in my Java Backend skills.
 
