@@ -22,7 +22,8 @@ I'm Informatic student and technology enthusiastic. I felt in love with computer
    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="70"/>
    <img src="https://mobilunity.com/wp-content/uploads/2018/08/JUnit-300x300.png" height="70"/>
    <img src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" height="70"/>
-    <img src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" height="70"/>
+   <img src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" height="70"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-3629037-3030394.png?f=avif&w=512" height="70"/>
 <div>
 
 ### Contact:
