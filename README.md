@@ -1,6 +1,7 @@
 ###
 <div id="header" align="center">
-  <img src="https://drive.google.com/file/d/1jn_0PRIwIPGl4u7t1zVPgMPMxRHELdy2/view?usp=sharing" height="200"/>
+
+  <h1>#&128187 #&9749 #&127760</h1>
   
 </div>
 
