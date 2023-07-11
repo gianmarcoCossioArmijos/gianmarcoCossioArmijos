@@ -1,7 +1,7 @@
 ###
 <div id="header" align="center">
 
-  <p>#&128187 #&9749 #&127760</p>
+  
   
 </div>
 
