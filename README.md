@@ -25,7 +25,7 @@ I'm Informatic student and technology enthusiastic. I felt in love with computer
    <img src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" height="70"/>
    <img src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" height="70"/>
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-3629037-3030394.png?f=avif&w=512" height="70"/>
-   <img src="https://logospng.org/wp-content/uploads/javascript.png" height="70"/>
+   <img src="https://icons.veryicon.com/png/o/application/skills-section/javascript-1.png" height="70"/>
    <img src="https://ph-files.imgix.net/2e26f07f-e5e5-411e-ba1e-e92c4083bd92.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=200&h=160&fit=crop&dpr=2" height="70"/>
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=512" height="70"/>
   <div>
