@@ -1,16 +1,20 @@
 ###
 <div id="header" align="center">
 
-  
+## GIANMARCO ARMIJOS COSSIO
   
 </div>
 
 <br>
 <br>
 
-Informatic student and technology enthuciast. Experience as English Teacher at a public Highschool. Proactive, creative, responsible, and good team work skills. Autodidactic learning habilities. Currently looking for first job oportunity at IT world.
+### ABOUT ME
 
-### Technologies:
+``
+Informatic student and technology enthuciast. Experience as English Teacher at a public Highschool. Proactive, creative, responsible, and good team work skills. Autodidactic learning habilities. Currently looking for first job oportunity at IT world.
+``
+
+### SKILLS
 
 <div id="technologies" align="center">
    <img src="https://www.foc.es/wp-content/uploads/2020/09/Java-Logo.png" height="70"/>
