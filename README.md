@@ -8,7 +8,7 @@
 <br>
 <br>
 
-I'm Informatic student and technology enthusiastic. I felt in love with computers when I was at school starting to explore graphic design programs like CorelDraw and Illustrator. After two years using those design softwares i decided to get a new skill and move on learning Photoshop. One year later i began to learn video edit programs and got some design freelance projects. Currently i'm working on freelance web projects and training in my Java Backend skills.
+Informatic student and technology enthuciast. Experience as English Teacher at a public Highschool. Proactive, creative, responsible, and good team work skills. Autodidactic learning habilities. Currently looking for first job oportunity at IT world.
 
 ### Technologies:
 
