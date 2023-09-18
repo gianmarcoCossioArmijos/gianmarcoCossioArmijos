@@ -27,26 +27,14 @@ I'm Informatic student and technology enthusiastic. I felt in love with computer
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-3629037-3030394.png?f=avif&w=512" height="70"/>
    <img src="https://icons.veryicon.com/png/o/application/skills-section/javascript-1.png" height="70"/>
    <img src="https://ph-files.imgix.net/2e26f07f-e5e5-411e-ba1e-e92c4083bd92.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=200&h=160&fit=crop&dpr=2" height="70"/>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-node-js-1174925.png?f=avif&w=512" height="70"/>
+   <img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-1.png" height="70"/>
+   <img src="https://cdn.iconscout.com/icon/free/png-128/redux-283024.png" height="70"/>
+  <img src="[https://cdn.iconscout.com/icon/free/png-128/redux-283024.png](https://bs-uploads.toptal.io/blackfish-uploads/skill_page/content/logo_file/logo/6007/Firebase-f073f7a685fca6ae89b29f42109e7859.png)" height="70"/>
   <div>
 
 ### Contact:
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/gianmarco-armijos-cossio-b7866925b">
+  <a href="https://www.linkedin.com/in/gianmarco-cossio-8309a9291">
     <img src="https://img.shields.io/badge/LinkedIn-purple"/>
   </a>
 <div>
-<!--
-**gianmarcoCossioArmijos/gianmarcoCossioArmijos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
