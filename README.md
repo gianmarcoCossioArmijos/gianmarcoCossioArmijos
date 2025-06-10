@@ -8,22 +8,22 @@
 <br>
 <br>
 
-### ABOUT ME
-
-``
-Informatic student and technology enthuciast. Experience as English Teacher at a public Highschool. Proactive, creative, responsible, and good team work skills. Autodidactic learning habilities. Currently looking for first job oportunity at IT world.
-``
-
 ### SKILLS
 
 <div id="technologies" align="center">
-   <img src="https://www.foc.es/wp-content/uploads/2020/09/Java-Logo.png" height="70"/>
+   <img src="https://www.pinclipart.com/picdir/big/540-5404935_java-logo-png-hd-clipart.png" height="70"/>
    <img src="https://stackjava.com/wp-content/uploads/2017/12/spring-logo.png" height="70"/>
    <img src="http://198.211.104.161/wp-content/uploads/2014/01/Hibernate-logo.png" height="70"/>
    <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" height="70"/>
    <img src="https://niixer.com/wp-content/uploads/2020/11/spring-boot.png" height="70"/>
-   <img src="https://www.tech-wd.com/wd/wp-content/uploads/2011/01/HTML5_Badge_256.png" height="70"/>
-   <img src="https://www.logolynx.com/images/logolynx/s_6e/6e6e1283cd55308a55b9eae8197b5e9b.png" height="70"/>
+   <img src="https://pngimg.com/uploads/linux/linux_PNG1.png" height="70"/>
+   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height="70"/>
+   <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" height="70"/>
+   <img src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png" height="70"/>
+   <img src="https://www.pngkit.com/png/detail/122-1229104_postgresql-elephant-logo-postgres-icon.png" height="70"/>
+   <img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen-1024x1024.png" height="70"/>
+   <img src="https://images.seeklogo.com/logo-png/26/1/microsoft-net-framework-logo-png_seeklogo-266948.png" height="70"/>
+   <img src="https://snti.in/images/plsql-card.png" height="70"/>
    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="70"/>
    <img src="https://mobilunity.com/wp-content/uploads/2018/08/JUnit-300x300.png" height="70"/>
    <img src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" height="70"/>
