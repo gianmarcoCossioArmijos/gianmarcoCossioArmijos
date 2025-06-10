@@ -22,12 +22,9 @@
    <img src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png" height="70"/>
    <img src="https://www.pngkit.com/png/detail/122-1229104_postgresql-elephant-logo-postgres-icon.png" height="70"/>
    <img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen-1024x1024.png" height="70"/>
-   <img src="https://images.seeklogo.com/logo-png/26/1/microsoft-net-framework-logo-png_seeklogo-266948.png" height="70"/>
+   <img src="https://baritechsol.com/wp-content/uploads/2022/05/DOT-NET-logo-768x768.png" height="70"/>
    <img src="https://snti.in/images/plsql-card.png" height="70"/>
    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="70"/>
-   <img src="https://mobilunity.com/wp-content/uploads/2018/08/JUnit-300x300.png" height="70"/>
-   <img src="https://blog.postman.com/wp-content/uploads/2018/04/logo-mark-300x300.png" height="70"/>
-   <img src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" height="70"/>
    <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-3629037-3030394.png?f=avif&w=512" height="70"/>
    <img src="https://icons.veryicon.com/png/o/application/skills-section/javascript-1.png" height="70"/>
    <img src="https://ph-files.imgix.net/2e26f07f-e5e5-411e-ba1e-e92c4083bd92.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=200&h=160&fit=crop&dpr=2" height="70"/>
