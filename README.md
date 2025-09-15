@@ -9,29 +9,79 @@
 <br>
 
 ### SKILLS
-
 <div id="technologies" align="center">
-   <img src="https://www.pinclipart.com/picdir/big/540-5404935_java-logo-png-hd-clipart.png" height="70"/>
-   <img src="https://stackjava.com/wp-content/uploads/2017/12/spring-logo.png" height="70"/>
-   <img src="http://198.211.104.161/wp-content/uploads/2014/01/Hibernate-logo.png" height="70"/>
-   <img src="https://pipedream.com/s.v0/app_1YMhwo/logo/orig" height="70"/>
-   <img src="https://niixer.com/wp-content/uploads/2020/11/spring-boot.png" height="70"/>
-   <img src="https://pngimg.com/uploads/linux/linux_PNG1.png" height="70"/>
-   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height="70"/>
-   <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" height="70"/>
-   <img src="https://www.pngkey.com/png/full/98-985032_flask-logo-flask-python-icon.png" height="70"/>
-   <img src="https://www.pngkit.com/png/detail/122-1229104_postgresql-elephant-logo-postgres-icon.png" height="70"/>
-   <img src="https://www.netgen.co.za/wp-content/uploads/2022/03/C-image-for-Netgen-1024x1024.png" height="70"/>
-   <img src="https://baritechsol.com/wp-content/uploads/2022/05/DOT-NET-logo-768x768.png" height="70"/>
-   <img src="https://snti.in/images/plsql-card.png" height="70"/>
-   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="70"/>
-   <img src="https://cdn.iconscout.com/icon/free/png-512/free-sass-3629037-3030394.png?f=avif&w=512" height="70"/>
-   <img src="https://icons.veryicon.com/png/o/application/skills-section/javascript-1.png" height="70"/>
-   <img src="https://ph-files.imgix.net/2e26f07f-e5e5-411e-ba1e-e92c4083bd92.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=200&h=160&fit=crop&dpr=2" height="70"/>
-   <img src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-1.png" height="70"/>
-   <img src="https://cdn.iconscout.com/icon/free/png-128/redux-283024.png" height="70"/>
-  <img src="[https://cdn.iconscout.com/icon/free/png-128/redux-283024.png](https://bs-uploads.toptal.io/blackfish-uploads/skill_page/content/logo_file/logo/6007/Firebase-f073f7a685fca6ae89b29f42109e7859.png)" height="70"/>
-  <div>
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+  </a>
+  <a href="https://circleci.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
+  </a>
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="40" height="40"/>
+  </a>
+</p>
+<div>
 
 ### Contact:
 <div id="badges" align="center">
