@@ -14,20 +14,8 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://circleci.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-  </a>
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -78,7 +66,22 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="java" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="40" height="40"/>
+  </a>
+  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/>
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="net" width="40" height="40"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/>
   </a>
 </p>
 <div>
