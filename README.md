@@ -24,10 +24,10 @@
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="40" height="40"/>
+    <img src="https://github.com/gilbarbara/logos/blob/main/logos/spring-icon.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/>
