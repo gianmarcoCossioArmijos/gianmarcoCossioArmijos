@@ -33,10 +33,10 @@
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/>
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="net" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt="net" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="flask" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-official~v2.svg" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
